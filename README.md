@@ -1,4 +1,4 @@
-# **Prazer eu sou o Franc Washington seja muito bem vindos aqui 💻**
+# **Prazer eu sou o Franc Washington seja muito bem vindo aqui 💻**
  🤝
 E-mail: fvilela216@gmail.com
 
