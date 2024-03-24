@@ -2,8 +2,7 @@
  🤝
 E-mail: fvilela216@gmail.com
 
- ## Buscando aprendizagem e focando nesta minha nova paixão que é o mundo tech!
-
+ ## Buscando constantemente por aprendizado e desenvolvimento, estou dedicando minha energia e paixão para explorar o vasto mundo da tecnologia, com foco especial no desenvolvimento backend. Comprometido em aprimorar minhas habilidades e crescer profissionalmente, estou determinado a contribuir de forma significativa para projetos desafiadores e inovadores. 🚀
 
  Estudante da Universidade Cruzeiro do Sul, cursando `Analise e Desenvolvimento de Sistema`
 
