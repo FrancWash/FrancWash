@@ -6,7 +6,7 @@ E-mail: fvilela216@gmail.com
 
  Estudante da Universidade Cruzeiro do Sul, cursando `Analise e Desenvolvimento de Sistema`
 
-                Termino 06/20244
+                Termino 06/2024
 
 
 
