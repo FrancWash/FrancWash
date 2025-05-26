@@ -1,32 +1,46 @@
-👋 Olá! Sou Franc Washington Vilela, desenvolvedor Python e back-end em constante evolução, com paixão especial por inteligência artificial e automações inteligentes.
+# 👋 Olá! Eu sou Franc Washington Vilela
 
-💻 **Stacks:**  
-Python (principal), FastAPI, Flask, JavaScript (Node.js básico), automação (pywhatkit, Selenium), Git, SQL, aprendizado de máquina (PyTorch, Scikit-Learn).
-
-🎯 **Buscando:**  
-Oportunidades desafiadoras em desenvolvimento back-end, automação de processos e projetos envolvendo inteligência artificial, onde eu possa aplicar e expandir minhas habilidades enquanto contribuo para soluções inovadoras e de impacto.
+Sou desenvolvedor **Back-End Python** com paixão por **automação, inteligência artificial** e projetos que resolvem problemas reais. Meu foco está em transformar ideias em soluções funcionais, escaláveis e com impacto.
 
 ---
 
-🚀 **Projetos em Destaque:**
+## 🧰 Stacks principais
 
-- [Bot WhatsApp IA](https://github.com/FrancWash/whatsapp-bot-ia): Bot para envio automático de mensagens no WhatsApp, integrando com planilhas e horários programados.
-- [Sistema Bancário](https://github.com/FrancWash/sistema_bancario): Simulação simples de operações bancárias (saque, depósito e extrato) com Python.
-- [Classes de um Jogo](https://github.com/FrancWash/classes-de-um-jogo): Criação de classes para heróis em aventuras, utilizando conceitos de POO em JavaScript.
-
----
-
-📊 **Estatísticas do GitHub:**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FrancWash&show_icons=true)
+* **Linguagens:** Python, JavaScript (Node.js básico)
+* **Frameworks:** Flask, FastAPI
+* **Automação:** pywhatkit, Selenium, scripts agendados
+* **IA & Dados:** PyTorch, Scikit-Learn, Pandas
+* **Banco de Dados:** PostgreSQL (Railway), SQLite, SQL puro
+* **DevOps:** Git, Vercel, Railway, Render
+* **Outros:** APIs REST, Webhooks, Google Forms, ServiceNow
 
 ---
 
-📬 **Conecte-se comigo:**
+## 🚀 Projetos em destaque
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franc-washington-vilela-12446016a/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:fvilela216@gmail.com)
+* [**Cintra Odontologia**](https://github.com/FrancWash/cintra-odontologia)
+  Site institucional moderno e responsivo para clínica odontológica, com carrossel, WhatsApp e SEO otimizado.
+
+* [**Ministério Maná**](https://github.com/FrancWash/mana_system)
+  Sistema de controle de doações e estoque de cestas básicas com Flask + PostgreSQL. Acesso por permissões e geração de relatórios.
+
+* [**Bot WhatsApp IA**](https://github.com/FrancWash/whatsapp-bot-ia)
+  Bot de atendimento automático via WhatsApp integrado ao Dialogflow, planilhas e agenda com IA leve.
+
+* [**Site Dra. Renata**](https://github.com/FrancWash/site-dra-renata)
+  Landing page com foco em candidatura política local e integração com mídias sociais e WhatsApp.
+
+* [**Sistema Bancário (Simples)**](https://github.com/FrancWash/sistema_bancario)
+  Operações de saque, depósito e extrato com validações em Python puro, para treinar lógica de programação.
 
 ---
 
-_"Em constante evolução e aprendizado para transformar ideias em soluções reais."_ 🚀
+## 📫 Como falar comigo?
+
+* 📧 [fvilela216@gmail.com](mailto:fvilela216@gmail.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/francwashingtonvilela)
+* 🐙 [Meus repositórios](https://github.com/FrancWash)
+
+---
+
+> “Em constante evolução e aprendizado para transformar ideias em soluções reais.” 🚀
