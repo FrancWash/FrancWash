@@ -45,7 +45,7 @@ Sou desenvolvedor **Back-End Python** com paixão por **automação, inteligênc
 ## 📫 Como falar comigo?
 
 - 📧 fvilela216@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/francwashingtonvilela](https://www.linkedin.com/in/franc-washington-vilela-12446016a/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/franc-washington-vilela-12446016a/)
 - 🐙 [Meus repositórios](https://github.com/FrancWash)
 
 ---
