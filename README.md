@@ -28,7 +28,7 @@ Sou desenvolvedor **Back-End Python** com paixão por **automação, inteligênc
   Bot de atendimento automático via WhatsApp integrado ao Dialogflow, planilhas e agenda com IA leve.
 
 - [**Site Dra. Renata**](https://github.com/FrancWash/site-dra-renata)  
-  Landing page com foco em candidatura política local e integração com mídias sociais e WhatsApp.
+  Em construção...
 
 - [**Sistema Bancário (Simples)**](https://github.com/FrancWash/sistema_bancario)  
   Operações de saque, depósito e extrato com validações em Python puro, para treinar lógica de programação.
